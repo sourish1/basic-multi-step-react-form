@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/sourish1/basic-multi-step-react-form/static/css/main.887cf00d.chunk.css",
-    "main.js": "/sourish1/basic-multi-step-react-form/static/js/main.eefaef86.chunk.js",
-    "main.js.map": "/sourish1/basic-multi-step-react-form/static/js/main.eefaef86.chunk.js.map",
-    "runtime-main.js": "/sourish1/basic-multi-step-react-form/static/js/runtime-main.c59fa151.js",
-    "runtime-main.js.map": "/sourish1/basic-multi-step-react-form/static/js/runtime-main.c59fa151.js.map",
-    "static/js/2.886542ec.chunk.js": "/sourish1/basic-multi-step-react-form/static/js/2.886542ec.chunk.js",
-    "static/js/2.886542ec.chunk.js.map": "/sourish1/basic-multi-step-react-form/static/js/2.886542ec.chunk.js.map",
-    "index.html": "/sourish1/basic-multi-step-react-form/index.html",
-    "precache-manifest.d0574578607651298f7783b24d45f32d.js": "/sourish1/basic-multi-step-react-form/precache-manifest.d0574578607651298f7783b24d45f32d.js",
-    "service-worker.js": "/sourish1/basic-multi-step-react-form/service-worker.js",
-    "static/css/main.887cf00d.chunk.css.map": "/sourish1/basic-multi-step-react-form/static/css/main.887cf00d.chunk.css.map",
-    "static/js/2.886542ec.chunk.js.LICENSE.txt": "/sourish1/basic-multi-step-react-form/static/js/2.886542ec.chunk.js.LICENSE.txt"
+    "main.css": "/basic-multi-step-react-form/static/css/main.887cf00d.chunk.css",
+    "main.js": "/basic-multi-step-react-form/static/js/main.8373d74a.chunk.js",
+    "main.js.map": "/basic-multi-step-react-form/static/js/main.8373d74a.chunk.js.map",
+    "runtime-main.js": "/basic-multi-step-react-form/static/js/runtime-main.86b44818.js",
+    "runtime-main.js.map": "/basic-multi-step-react-form/static/js/runtime-main.86b44818.js.map",
+    "static/js/2.886542ec.chunk.js": "/basic-multi-step-react-form/static/js/2.886542ec.chunk.js",
+    "static/js/2.886542ec.chunk.js.map": "/basic-multi-step-react-form/static/js/2.886542ec.chunk.js.map",
+    "index.html": "/basic-multi-step-react-form/index.html",
+    "precache-manifest.ec2b7c6e93eec448511a1082a795c901.js": "/basic-multi-step-react-form/precache-manifest.ec2b7c6e93eec448511a1082a795c901.js",
+    "service-worker.js": "/basic-multi-step-react-form/service-worker.js",
+    "static/css/main.887cf00d.chunk.css.map": "/basic-multi-step-react-form/static/css/main.887cf00d.chunk.css.map",
+    "static/js/2.886542ec.chunk.js.LICENSE.txt": "/basic-multi-step-react-form/static/js/2.886542ec.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c59fa151.js",
+    "static/js/runtime-main.86b44818.js",
     "static/js/2.886542ec.chunk.js",
     "static/css/main.887cf00d.chunk.css",
-    "static/js/main.eefaef86.chunk.js"
+    "static/js/main.8373d74a.chunk.js"
   ]
 }
